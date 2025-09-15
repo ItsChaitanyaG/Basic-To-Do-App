@@ -1,0 +1,112 @@
+body{
+    background-color: white;
+    
+}
+
+.card {
+    padding: 15px;
+    margin: 10px 0;
+    background: #f4f4f4;
+    border: 3px dotted black;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    list-style: none;
+}
+
+.card button {
+    background: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.card button:hover {
+    background: #d11a2a;
+}
+
+
+.s2:hover {
+    color: white;
+    background: rgb(56, 56, 56);
+}
+
+.s2{
+    background: white;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#h {
+    text-align: center;
+    color: #f4f4f4;
+    background-color: rgb(44, 44, 44);
+    font-size: 0.75cm;
+    padding: 0.5cm;
+    border-bottom:0.2cm solid rgb(0, 0, 0);
+    border-top: 0.2cm solid black ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.h{
+    font-size: medium;
+}
+
+#b{
+    padding: 1cm;
+    background-color: #c4c4c4;
+    font-size: 20px;
+    margin-left: 6cm;
+    margin-right: 6cm;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#openPop{
+    background: white;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#openPop:hover{
+    color: white;
+    background: rgb(56, 56, 56);
+}
+
+.popup-form{
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 1cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form{
+    height: 5cm;
+    padding:10px;
+    line-height: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button{
+    background-color: #f4f4f4;
+    border: 2px solid black;
+    border-radius: 4px;
+}
